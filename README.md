@@ -1,4 +1,4 @@
 # Hello-world
-Mi primer proyecto Android del curso "Fundamentos de Android" (Semana 3)
+Esta es una prueba de aprendizaje para usar GitHub con la finalidad de usarlo en mis proyectos de Android
 
 Estoy aprendiendo a crear proyectos en Android Studio, soy Hector Morales creando este commit.
